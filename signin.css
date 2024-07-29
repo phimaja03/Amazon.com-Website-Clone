@@ -1,0 +1,177 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+}
+
+.logo img {
+    width: 100px;
+    margin-bottom: 20px;
+}
+
+.sign-in-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.sign-in-box h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.sign-in-box form {
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-in-box label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.sign-in-box input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.sign-in-box button {
+    padding: 10px;
+    background-color: #eed848;
+    border: 1px solid #a88734;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.sign-in-box p {
+    font-size: 12px;
+    color: #555;
+}
+
+.sign-in-box a {
+    color: #007185;
+    text-decoration: none;
+}
+
+.sign-in-box .help-links {
+    margin-top: 20px;
+}
+
+.buying-for-work h2 {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.new-to-amazon {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.new-to-amazon hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.new-to-amazon p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+footer {
+    margin-top: 20px;
+}
+
+footer a {
+    margin: 0 10px;
+    font-size: 12px;
+    color: #555;
+    text-decoration: none;
+}
+.copyright {
+    padding-top: 5px;
+    font-size: 12px;
+}
+
+/**create account**/
+/* Additional styles for create-account-box */
+.create-account-box {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+.create-account-box h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.create-account-box form {
+    display: flex;
+    flex-direction: column;
+}
+
+.create-account-box label {
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.create-account-box input {
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+.create-account-box button {
+    padding: 10px;
+    background-color: #eed848;
+    border: 1px solid #a88734;
+    border-radius: 3px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.create-account-box p {
+    font-size: 12px;
+    color: #555;
+}
+
+.create-account-box a {
+    color: #007185;
+    text-decoration: none;
+}
+
+.create-account-box .already-have-account {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.create-account-box .already-have-account hr {
+    border: 0;
+    border-top: 1px solid #ddd;
+    margin: 20px 0;
+}
+
+.create-account-box .already-have-account p {
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
